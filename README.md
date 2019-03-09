@@ -7,7 +7,10 @@ A small city XYZ has been taking record of its monthly electricity consumption (
 The time series plots shown below indicate the varying of electricity consumption as well as temperature
 from Jan. 1997 to Dec. 2006.
 
+
+
 The data can be found here:
+https://github.com/kushalkapadia/Time-series-analysis-case-2/blob/master/train1.csv
 
 
 ## Questions answered:
