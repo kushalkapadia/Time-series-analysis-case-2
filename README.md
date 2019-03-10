@@ -14,7 +14,7 @@ The data can be found here:
 https://github.com/kushalkapadia/Time-series-analysis-case-2/blob/master/train1.csv
 
 
-## Questions answered:
+### Questions answered:
 
 1) Use the Holt-Winter forecasting method to build a temperature forecasting model. Choose the best
 exponential smoothing parameter.
